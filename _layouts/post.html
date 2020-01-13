@@ -6,9 +6,13 @@ layout: default
 
 <div class="post">
   {{ content }}
+  
+  <hr>
+  <!-- Post comments -->
+  <div class="notecomments">
+    {% include disqus.html %}	 
+  </div>
+  
 </div>
 
-<!-- Post comments -->
-<div class="notecomments">
-  {% include disqus.html %}	 
-</div>
+
