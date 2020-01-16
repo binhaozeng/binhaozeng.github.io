@@ -1,44 +1,27 @@
-/* 主页面设置*/
-*{
-    font-size: 16px;
-    font-family: 幼圆;
+body {
+    margin: 60px auto;
+    width: 70%;
 }
-body{
-    background-color: #FDF6E3；
-    line-height: 1.5em;
-    max-width: 960px;
-    margin: 0 auto;
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
 }
-/* !important的作用是提高指定样式规则的应用优先权。*/
-body>*:first-child {
-    margin-top: 0 !important;
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
 }
-body>*:last-child {
-    margin-bottom: 0 !important;
+a {
+    text-decoration: none;
+    color: #999;
 }
-/* <tt> 标签与 <code> 和 <kbd> 标签一样，<tt> 标签和必
-需的 </tt> 结束标签告诉浏览器，要把其中包含的文本显示
-为等宽字体。*/
-/* 标题 h1~h2*/
-/* ====================================================*/
+a:hover {
+    text-decoration: underline;
+}
 h1 {
-  font-size: 2.8em;
-  color: #d33682;
-  margin: 0.75em;
-}
-h2 {
-  font-size: 2.4em;
-  color: #9B31EA;
-  margin: 0.75em;
-}
-h3 {
-  font-size: 1.8em;
-  color: #338000;
-  margin: 0.75em;
-}
-h4 {
-  font-size: 1.4em;
-  margin: 0.75em;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 /* p,a,,hr,list,table*/
 /* ==================================================*/
@@ -189,4 +172,17 @@ background:rgba(0,0,0,0.1);
 }
 ::-webkit-scrollbar-thumb:window-inactive {
 background:rgba(255,0,0,0.4);
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
 }
