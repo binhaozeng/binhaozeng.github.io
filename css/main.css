@@ -51,7 +51,7 @@ hr {
 }
 /*  link*/
 a {
-    color: #b58900;
+    color: #000000;
     text-decoration: none;
 }
 a:focus {
@@ -61,7 +61,7 @@ a:active,a:hover {
     outline: 0;
 }
 a:hover {
-    color: #FFFFFF;
+    color: #cb4b16;
     text-decoration: underline;
 }
 a:visited {
