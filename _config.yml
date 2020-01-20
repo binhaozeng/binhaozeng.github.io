@@ -57,6 +57,7 @@ authors:
     Lynx:
         name: Michael Lynx
         bio: 三反昼夜
+        about: https://michaellynx.github.io/about
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
