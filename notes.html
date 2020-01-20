@@ -1,0 +1,15 @@
+---
+layout: page
+title: Notes
+bio: 随笔，随想
+---
+
+<section class="list">
+    {% for post in site.posts %}
+        
+        <!-- categories: product -->
+        {% if post.categories contains 'notes' %}
+        {% include blog-post.html %}               
+        {% endif %}
+    {% endfor %}
+</section>

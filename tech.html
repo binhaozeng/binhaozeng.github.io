@@ -1,0 +1,13 @@
+---
+layout: page
+title: Tech
+bio: 为学日益
+---
+
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.categories contains 'tech' %}
+        {% include blog-post.html %}               
+        {% endif %}
+    {% endfor %}
+</section>
