@@ -8,8 +8,8 @@ description: A blog about michaellynx.github.io Lynx
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
-profile_bk: assets/images/profile_bk.jpg
+picture: assets/images/profile.JPG
+profile_bk: assets/images/profile_bk.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
