@@ -202,5 +202,5 @@ pod trunk push --allow-warnings
 
 [iOS开发之将自己的项目上传到Cocoapods](https://rakuyomo.github.io/2017/08/21/28-iOS%E5%BC%80%E5%8F%91%E4%B9%8B%E5%B0%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0CocoaPods/)
 
-[将自己写的库上传到cocoapods（2015](https://www.bbsmax.com/A/pRdBjmA1dn/)
+[将自己写的库上传到cocoapods（2015）](https://www.bbsmax.com/A/pRdBjmA1dn/)
 
