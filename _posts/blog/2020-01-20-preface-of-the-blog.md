@@ -6,6 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - essay
+- preface
 star: false
 category: blog
 author: Lynx
