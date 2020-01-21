@@ -47,8 +47,8 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
 
 <ul>
     <li>Github: <a href="https://github.com/MichaelLynx" target="_blank">MichaelLynx</a></li>
-    <li>stackoverflow:<a href="https://stackoverflow.com/users/12045492/blacksage" target="_blank">BlackSage</a></li>
-  	<li>segmentfault:<a href="https://segmentfault.com/u/blacksage" target="_blank">BlackSage</a></li>
+    <li>stackoverflow:<a href="https://stackoverflow.com/users/12045492/blacksage" target="_blank">Lynx</a></li>
+  	<li>segmentfault:<a href="https://segmentfault.com/u/blacksage" target="_blank">Lynx</a></li>
     <li>邮箱：<a href = "mailto:MichaelLynxCN@gmail.com">MichaelLynxCN@gmail.com</a></li>
 </ul>
 

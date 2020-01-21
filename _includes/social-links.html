@@ -78,6 +78,12 @@
         </a>
     {% endif %}
 
+    {% if site.segmentfault %}
+        <a class="link" data-title="segmentfault" href="https://segmentfault.com/u/{{ site.segmentfault }}" target="_blank">
+            <svg class="icon icon-segmentfault"><use xlink:href="#icon-segmentfault"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.quora %}
         <a class="link" data-title="quora.com/profile/{{ site.quora }}" href="https://www.quora.com/profile/{{ site.quora }}" target="_blank">
             <svg class="icon icon-quora"><use xlink:href="#icon-quora"></use></svg>
