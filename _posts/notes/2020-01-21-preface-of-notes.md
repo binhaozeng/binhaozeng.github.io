@@ -1,7 +1,7 @@
 ---
 title: "关于随笔"
 layout: post
-date: 2020-01-21 17:05
+date: 1992-01-25 17:05
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
