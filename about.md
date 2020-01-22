@@ -62,3 +62,6 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
   <li>2020/01/22：评论由disqus替换为valine，现在国内用户也可以正常使用评论功能了。</li>
 </ul>
 
+<br>
+
+{% include valine.html %}    
