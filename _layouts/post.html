@@ -44,6 +44,15 @@ layout: page
     {% include author.html %}
 {% endif %}
 
-{% if site.disqus.categories contains page.category %}
+{% if site.enable_disqus and site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
+
+{% if 
+    page.categories contains "blog" or 
+    page.categories contains "notes" or 
+    page.categories contains "tech"
+%}
+    {% include valine.html %}    
+{% endif %}
+
