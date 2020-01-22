@@ -11,7 +11,7 @@ layout: page
 
 iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专线及其司机端、使命者、乐宝、zayaCare等项目。
 
-<br>
+
 
 <b>个人爱好</b><br>
 
@@ -22,7 +22,7 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
   	<li>编程，学习新技术</li>
 </ul>
 
-<br>
+
 
 <b>性格</b><br>
 
@@ -33,7 +33,7 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
   <li>乐于助人</li>
 </ul>
 
-<br>
+
 
 <b>GitHub项目</b><br>
 
@@ -41,7 +41,7 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
   <li>cocoapods第三方库：<a href="https://github.com/MichaelLynx/MCircleBoard">MCircleBoard</a></li>
 </ul>
 
-<br>
+
 
 <b>关注</b><br>
 
@@ -52,7 +52,7 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
     <li>邮箱：<a href = "mailto:MichaelLynxCN@gmail.com">MichaelLynxCN@gmail.com</a></li>
 </ul>
 
-<br>
+
 
 <b>博客发展历史</b><br>
 
