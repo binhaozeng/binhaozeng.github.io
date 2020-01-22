@@ -52,3 +52,12 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
     <li>邮箱：<a href = "mailto:MichaelLynxCN@gmail.com">MichaelLynxCN@gmail.com</a></li>
 </ul>
 
+
+
+<b>博客发展历史</b><br>
+
+<ul>
+  <li>2020/01/16：通过GitHub+Jekyll搭建博客</li>
+  <li>2020/01/20：使用<a href="https://github.com/sergiokopplin/indigo">indigo</a>作为主题重新搭建博客</li>
+</ul>
+
