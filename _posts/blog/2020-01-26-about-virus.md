@@ -5,9 +5,10 @@ date: 2020-01-26 14:20
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
+- essay
 - 武汉2019-nCov肺炎病毒
 star: false
-category: notes
+category: blog
 author: Lynx
 description: 疫情的爆发，武汉政府难辞其咎。
 ---
