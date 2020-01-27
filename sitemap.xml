@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+<url>
+ <loc>https://michaellynx.github.io/tech/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/about</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://facebook.com/100012963570046</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://github.com/michaellynx</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://stackoverflow.com/users/12045492/lynx</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/blog</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/notes</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/archives</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/about</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/file-save-and-obtain/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/file-save-and-obtain/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/ui-method/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/ui-method/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/class-method/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/class-method/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/3rd-party-library-to-cocoapods/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/3rd-party-library-to-cocoapods/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/demo/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/demo/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/template/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/template/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://michaellynx.github.io/feed.xml</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://github.com/sergiokopplin/indigo</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://github.com/sergiokopplin/indigo</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-01-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+</urlset>
