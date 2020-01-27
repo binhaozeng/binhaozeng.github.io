@@ -57,7 +57,7 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
 <b>博客发展历史</b><br>
 
 <ul>
-  <li>2020/01/16：通过GitHub+Jekyll搭建博客</li>
+  <li>2020/01/06：通过GitHub+Jekyll搭建博客</li>
   <li>2020/01/20：使用<a href="https://github.com/sergiokopplin/indigo">indigo</a>作为主题重新搭建博客</li>
   <li>2020/01/22：评论由disqus替换为valine，现在国内用户也可以正常使用评论功能了。</li>
 </ul>
