@@ -64,4 +64,10 @@ iOS开发程序员，熟悉objective-c及swift两种语言，开发过搭呗专�
 
 <br>
 
+<p style="color:#aaa;font-size: 1.0rem;font-weight: 300;">
+    {% include visitor.html %}
+</p>
+
+<br>
+
 {% include valine.html %}    
