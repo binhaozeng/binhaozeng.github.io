@@ -5,6 +5,7 @@ date: 2020-02-07 14:20
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
+- method
 - 导航
 star: false
 category: tech
