@@ -35,7 +35,7 @@ plist文件新增``LSApplicationQueriesSchemes``关键字，类型为NSArray，�
 
 # 代码
 
-```objc
+```objective-c
 
 //导航只需要目的地经纬度，endLocation为纬度、经度的数组
 -(void)doNavigationWithEndLocation:(NSArray *)endLocation {
