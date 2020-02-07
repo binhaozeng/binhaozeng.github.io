@@ -15,26 +15,27 @@ description: oc跳转到第三方地图进行导航的方法。
 
 
 
-#前言
+# 介绍
+
 - App内根据手机上装载的地图App将其显示在弹出的选择框，选择对应地图跳转进入地图导航。需要用到``- (BOOL)canOpenURL:(NSURL *)url NS_AVAILABLE_IOS(3_0);``方法判断手机是否已安装相应地图App。
 - 要进行跳转需要先在xcode的plist文件内将目标App的url Scheme加入白名单(LSApplicationQueriesSchemes)。
 
-###常见第三方地图App的url Scheme
+## 常见第三方地图App的url Scheme
 
 - 百度地图：baidumap
 - 高德地图：iosamap
 - 谷歌地图：comgooglemaps
 - 腾讯地图：qqmap
 
+## plist白名单设置
 
-###plist白名单设置
 plist文件新增``LSApplicationQueriesSchemes``关键字，类型为NSArray，并在其下添加子目录，类型为NSString，内容为各地图对应的url Scheme。
 
 ![白名单LSApplicationQueriesSchemes](http://upload-images.jianshu.io/upload_images/3820289-92f9f67b5106c0cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+# 代码
 
-#代码示例
-```objective-c
+```
 
 //导航只需要目的地经纬度，endLocation为纬度、经度的数组
 -(void)doNavigationWithEndLocation:(NSArray *)endLocation {
@@ -142,8 +143,7 @@ plist文件新增``LSApplicationQueriesSchemes``关键字，类型为NSArray，�
 
 
 
-
-#附录-相关链接
+# 附录-相关链接
 
 > 参考链接：[IOS实现应用内打开第三方地图app进行导航](http://blog.csdn.net/a416863220/article/details/51220739)
 > 相关链接：[iOS 跳转方式实现地图导航功能](http://www.jianshu.com/p/1277346a8bb4)
