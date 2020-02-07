@@ -9,7 +9,7 @@ tag:
 star: false
 category: tech
 author: Lynx
-description: [iOS/oc]跳转到第三方地图进行导航的方法。
+description: iOS|oc跳转到第三方地图进行导航的方法。
 ---
 
 
