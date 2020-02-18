@@ -5,7 +5,7 @@ date: 2020-01-24 16:33
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- 武汉2019-nCov肺炎病毒
+- COVID-19
 star: false
 category: blog
 author: Lynx
