@@ -8,7 +8,7 @@ description: A blog about binhaozeng.github.io Zbh
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.JPG
+picture: assets/images/me.jpg
 profile_bk: assets/images/profile_bk.JPG
 
 # If you want to include your resume, set to true
@@ -74,7 +74,7 @@ authors:
         bio: 三反昼夜
         about: https://binhaozeng.github.io/about
         external-image: false
-        picture: assets/images/profile.JPG
+        picture: assets/images/me.jpg
         # twitter: johndoe
 
 # do you want a larger site? change the option below
