@@ -1,14 +1,14 @@
 # main text of home
-name: Lynx
-bio: 失诸正鹄，反求诸其身
+name: 曾斌昊
+bio: 脚踏实地
 
 # twitter summary info
-description: A blog about michaellynx.github.io Lynx
+description: A blog about binhaozeng.github.io Zbh
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.JPG
+picture: assets/images/me.JPG
 profile_bk: assets/images/profile_bk.JPG
 
 # If you want to include your resume, set to true
@@ -17,7 +17,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://michaellynx.github.io
+url: https://binhaozeng.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,7 +26,7 @@ permalink: /:title/
 analytics-google: ''
 
 # To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: 'michaellynx.github.io'
+analytics-piwik-url: 'binhaozeng.github.io'
 analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
@@ -49,32 +49,32 @@ valine:
 
 
 # if you don't have any of social below, comment the line
-facebook: 100012963570046
+facebook: 无
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: MichaelLynx
+github: binhaozeng
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: 12045492/lynx
+stackoverflow: 12045492/Zbh
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# segmentfault: michaellynx
-email: MichaelLynxCN@gmail.com
+# segmentfault: binhaozeng
+email: binhao.zeng@gmail.com
 
 authors:
     Lynx:
-        name: Michael Lynx
+        name: BinHao Zeng
         bio: 三反昼夜
-        about: https://michaellynx.github.io/about
+        about: https://binhaozeng.github.io/about
         external-image: false
-        picture: assets/images/profile.JPG
+        picture: assets/images/me.JPG
         # twitter: johndoe
 
 # do you want a larger site? change the option below
@@ -125,7 +125,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://michaellynx.github.io
+    base_url: https://binhaozeng.github.io
 
 markdown: kramdown
 kramdown:
