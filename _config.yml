@@ -8,7 +8,7 @@ description: A blog about binhaozeng.github.io Zbh
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/me.JPG
+picture: assets/images/profile.JPG
 profile_bk: assets/images/profile_bk.JPG
 
 # If you want to include your resume, set to true
@@ -59,7 +59,7 @@ facebook: 无
 github: binhaozeng
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: 12045492/Zbh
+stackoverflow: 无
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -74,7 +74,7 @@ authors:
         bio: 三反昼夜
         about: https://binhaozeng.github.io/about
         external-image: false
-        picture: assets/images/me.JPG
+        picture: assets/images/profile.JPG
         # twitter: johndoe
 
 # do you want a larger site? change the option below
